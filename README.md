@@ -2,6 +2,8 @@
 
 # Bosun
 
+> **Bosun has moved to [fleet](https://github.com/FranciscoNunes-dxspark/fleet/tree/main/apps/bosun)**, the family's one repository. Its releases are there now, tagged `bosun-v<version>`; an installed Bosun updates itself from them. This repository is kept for its history.
+
 Runs a project's processes for you in the terminal, each with its own log, port and health.
 
 A keyboard-driven terminal app, a sibling of Splice and Trawl: the same prompt, help window, mouse,
